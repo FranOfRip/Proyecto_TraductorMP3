@@ -1,0 +1,1 @@
+Lo que hace el siguiente Programa es mediante streamlit lo que hace es Tu le pasas un texto y luego lo traduce a los textos segun el idioma que le pongas en la aplicacion, y tambien puedes descargar los archivos generados con las traduciones.
